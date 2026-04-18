@@ -1,0 +1,33 @@
+# Raw dataset
+photos/
+
+# Downloadable task/model file
+hand_landmarker.task
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# Trained models
+*.pkl
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# macOS
+.DS_Store
+
+# Large archives / videos
+*.zip
+*.rar
+*.mp4
+*.mov
